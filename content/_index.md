@@ -1,9 +1,10 @@
 ---
-title: Xin chào 👋
+title: Hello there 👋
 date: 2025-09-07
 
 ---
-Mình là Hưng, chào mừng đến kho lưu trữ Internet mở của mình. Mọi thông tin ở đây đều do mình và các bạn của mình viết (sẽ không có nội dung AI nào ở đây đâu)
+My name is Hưng 🇻🇳. Welcome to the page! <br>
 {.lead}
+I'm a Physics major (Le Hong Phong Highschool for the Gifted, HCMC.), runner, cyclist, camera enthusiast, software, cs stuff (whatever related to computer). 
 
-From: @humsquared
+Hope you find something useful here (I guess?).

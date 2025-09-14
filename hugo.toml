@@ -1,6 +1,6 @@
 baseURL = 'https://example.com/'
 languageCode = 'en-us'
-title = "To: You - my love, my life"
+title = "@humsquared"
 copyright = '@humsquared'
 enableRobotsTXT = true
 
