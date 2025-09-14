@@ -3,7 +3,7 @@ title: Brave to be Fear
 date: 2025-09-07
 ---
 
-#TEMPLATE
+# TEMPLATE
 ---
 title: Configuration reference
 date: 2024-10-25
