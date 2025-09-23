@@ -4,7 +4,8 @@
       "Bash(hugo mod:*)",
       "Bash(hugo:*)",
       "Bash(gh api:*)",
-      "Bash(git add:*)"
+      "Bash(git add:*)",
+      "Bash(git commit:*)"
     ],
     "deny": [],
     "ask": []
