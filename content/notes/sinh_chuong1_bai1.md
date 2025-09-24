@@ -1,36 +1,27 @@
 ---
-title: DNA và cơ chế tái bản DNA
+title: DNA VÀ CƠ CHẾ TÁI BẢN DNA
 date: "2025-09-22"
 categories: [sinh học, lớp 12]
 
 ---
 # 1. The BIG IDEAS:
-
 ## 1.1 DNA được cấu tạo theo nguyên tắc đa phân và NTBS (Nguyên tắc bổ sung) nên thực hiện được chức năng mang, bảo quản và truyền đạt thông tin di truyền.
-
 - Nguyên tắc đa phân: là một nguyên tắc dùng để tạo ra các đại phân tử sinh học (DNA, RNA, protein, …) từ các đơn vị nhỏ hơn gọi là đơn phân (A, T, G, X - nucleotide)
-
 - Nguyên tắc bổ sung (NTBS): nguyên tắc liên kết các [[base nitrogen]] đối diện trên hai mạch đơn của DNA hoặc RNA bằng các [[liên kết hydro đặc hiệu]]:
 	- A - T
 	- G - X 
-
 ## 1.2 DNA được tái bản theo nguyên tắc bán bảo toàn, một mạch DNA được dùng làm khuôn tổng hợp nên mạch mới theo NTBS. Do vậy, từ một phân tử “mẹ” tạo ra được hai phân tử DNA “con” giống nhau và giống với phân tử DNA mẹ
-
 - tái bản: quá trình sao chép DNA để tạo ra 2 phân tử DNA con giống hệt mẹ.
-
 - nguyên tắc bán bảo toàn: trong mỗi phân tử DNA con mới tạo thành, một mạch giữ lại nguyên vẹn từ DNA mẹ (mạch cũ), trong khi mạch còn lại được tổng hợp mới hoàn toàn dựa trên mạch khuôn cũ. Do đó, mỗi phân tử DNA sau tái bản gồm một mạch cũ và một mạch mới.
-
 - khuôn tổng hợp: là mạch đơn của DNA mẹ được tách ra và đóng vai trò làm khuôn mẫu để tổng hợp mạch mới.
-
 ---
 # 2. The SMALLER IDEAS:
 ## 2.1 Mô hình cấu trúc DNA theo Watson và Crick
-
 ![[Hinh6-12-Mo-hinh-cau-truc-phan-tu-ADN.jpg]]
-
-> [!NOTE] Từ hình trên ta có thể thấy:
-> DNA được cấu trúc kiểu chuỗi xoắn kép (2 mạch polynucleotide đối song song) nên có cấu trúc bền vững nhưng có khả năng tách rời, đảm bảo thông tin di truyền được bảo quản ít bị hư hỏng.
-
+{{< admonition type="note" >}}
+Từ hình trên ta có thể thấy:
+DNA được cấu trúc kiểu chuỗi xoắn kép (2 mạch polynucleotide đối song song) nên có cấu trúc bền vững nhưng có khả năng tách rời, đảm bảo thông tin di truyền được bảo quản ít bị hư hỏng.
+{{</admonition>}}
 ## 2.2 Tại sao protein tạo nên các tính trạng của sinh vật nhưng không thể đảm nhận chức năng của một vật chất di truyền?
 
 ### 2.2.1 Protein tạo nên tính trạng vì tham gia trực tiếp vào cấu trúc và chức năng của tế bào 
@@ -38,23 +29,16 @@ categories: [sinh học, lớp 12]
 ### 2.2.2 Protein không đảm nhận chức năng của một vật chất di truyền vì:
 
 - không được cấu tạo theo nguyên tắc bổ sung (như DNA) → không có khả năng lưu trữ, bảo quản và truyền đạt thông tin di truyền.
-
 - không có khả năng tự nhân đôi hay sao chép thông tin cho thế hệ tiếp theo
-
-
-#### The tradition way of learning stops here, welcome THE ILLEGAL WAYYY 🔥🔥🔥
-
-`Core Concepts -> FAQs -> Diagram-Heavy`
-`Active Recall >> Passive Reading (Using Anki hihi)`
-`Space Repition (also, Anki hihi)`
 
 ## 2.3 Quá trình tái bản DNA (this yucks)
 
->[!WARNING] Điều cần nhớ!
->DNA được cấu tạo từ 2 mạch ngược chiều nhau 3’ và 5’ 
->(cuối mạch 3’ là 5’ và cuối mạch 5’ là 3’)
->Điều này sẽ quyết định tới quá trình tái bản của từng mạch
+{{<admonition type ="warning">}}
+DNA được cấu tạo từ 2 mạch ngược chiều nhau 3’ và 5’ 
+(cuối mạch 3’ là 5’ và cuối mạch 5’ là 3’).
 
+Điều này sẽ quyết định tới quá trình tái bản của từng mạch
+{{</admonition>}}
 ![[Hinh-1.3 1.jpg]]
 
 Bước 1: Tách DNA thành 2 mạch riêng biệt sử dụng enzyme helicase (enzyme tách mạch). Mỗi một mạch sẽ trở thành một khuông mẫu để tạo nên 1 sợi DNA mới. 
