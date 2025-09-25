@@ -7,9 +7,11 @@ categories: [sinh học, lớp 12]
 # 1. The BIG IDEAS:
 ## 1.1 DNA được cấu tạo theo nguyên tắc đa phân và NTBS (Nguyên tắc bổ sung) nên thực hiện được chức năng mang, bảo quản và truyền đạt thông tin di truyền.
 - Nguyên tắc đa phân: là một nguyên tắc dùng để tạo ra các đại phân tử sinh học (DNA, RNA, protein, …) từ các đơn vị nhỏ hơn gọi là đơn phân (A, T, G, X - nucleotide)
-- Nguyên tắc bổ sung (NTBS): nguyên tắc liên kết các [[base nitrogen]] đối diện trên hai mạch đơn của DNA hoặc RNA bằng các [[liên kết hydro đặc hiệu]]:
+- Nguyên tắc bổ sung (NTBS): nguyên tắc liên kết các {{<sidenote "base nitrogen">}} là các hợp chất hữu cơ chứa nguyên tử nitơ, là thành phần quan trọng cấu tạo nên các đơn phân nucleotide {{</sidenote>}} đối diện trên hai mạch đơn của DNA hoặc RNA bằng các liên kết hydro đặc hiệu [^1]: 
 	- A - T
 	- G - X 
+[^1]: là kiểu liên kết yếu được hình thành giữa các base nitrogen đối diện trên hai mạch đơn của phân tử DNA hoặc RNA, trong đó từng loại base chỉ có thể liên kết với một loại base cụ thể theo nguyên tắc bổ sung. 
+
 ## 1.2 DNA được tái bản theo nguyên tắc bán bảo toàn, một mạch DNA được dùng làm khuôn tổng hợp nên mạch mới theo NTBS. Do vậy, từ một phân tử “mẹ” tạo ra được hai phân tử DNA “con” giống nhau và giống với phân tử DNA mẹ
 - tái bản: quá trình sao chép DNA để tạo ra 2 phân tử DNA con giống hệt mẹ.
 - nguyên tắc bán bảo toàn: trong mỗi phân tử DNA con mới tạo thành, một mạch giữ lại nguyên vẹn từ DNA mẹ (mạch cũ), trong khi mạch còn lại được tổng hợp mới hoàn toàn dựa trên mạch khuôn cũ. Do đó, mỗi phân tử DNA sau tái bản gồm một mạch cũ và một mạch mới.
@@ -17,7 +19,8 @@ categories: [sinh học, lớp 12]
 ---
 # 2. The SMALLER IDEAS:
 ## 2.1 Mô hình cấu trúc DNA theo Watson và Crick
-![[Hinh6-12-Mo-hinh-cau-truc-phan-tu-ADN.jpg]]
+
+![Mô hình cấu trúc DNA theo Watson và Crick](Hinh6-12-Mo-hinh-cau-truc-phan-tu-ADN.jpg)
 {{< admonition type="note" >}}
 Từ hình trên ta có thể thấy:
 DNA được cấu trúc kiểu chuỗi xoắn kép (2 mạch polynucleotide đối song song) nên có cấu trúc bền vững nhưng có khả năng tách rời, đảm bảo thông tin di truyền được bảo quản ít bị hư hỏng.
@@ -39,7 +42,7 @@ DNA được cấu tạo từ 2 mạch ngược chiều nhau 3’ và 5’
 
 Điều này sẽ quyết định tới quá trình tái bản của từng mạch
 {{</admonition>}}
-![[Hinh-1.3 1.jpg]]
+![quá trình tái bản DNA](Hinh-1.3%201.jpg)
 
 Bước 1: Tách DNA thành 2 mạch riêng biệt sử dụng enzyme helicase (enzyme tách mạch). Mỗi một mạch sẽ trở thành một khuông mẫu để tạo nên 1 sợi DNA mới. 
 

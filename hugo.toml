@@ -42,6 +42,7 @@ enableRobotsTXT = true
         block = true
 
 [params]
+     customCSS = ["css/custom.css"]
      showGraph = false
   [params.author]
     name = 'Hum Hum'
@@ -53,3 +54,5 @@ enableRobotsTXT = true
   [params.robotstxt]
     blockCC = true
     blockAI = true
+
+
