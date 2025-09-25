@@ -4,7 +4,7 @@ date: "2025-09-22"
 categories: [sinh học, lớp 12]
 
 ---
-[Open PDF](griffiths-p2.9-divergence.pdf)
+
 # 1. The BIG IDEAS:
 ## 1.1 DNA được cấu tạo theo nguyên tắc đa phân và NTBS (Nguyên tắc bổ sung) nên thực hiện được chức năng mang, bảo quản và truyền đạt thông tin di truyền.
 - Nguyên tắc đa phân: là một nguyên tắc dùng để tạo ra các đại phân tử sinh học (DNA, RNA, protein, …) từ các đơn vị nhỏ hơn gọi là đơn phân (A, T, G, X - nucleotide)
